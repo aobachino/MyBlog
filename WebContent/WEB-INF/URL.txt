@@ -1,0 +1,10 @@
+********************************
+* ONLINEKadai1 *
+********************************
+http://localhost:8080/ONLINEKadai1/menu.html
+
+http://localhost:8080/ONLINEKadai1/loginForm.html
+
+http://localhost:8080/ONLINEKadai1/newRegisterForm.html
+
+http://localhost:8080/ONLINEKadai1/product.html
